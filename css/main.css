@@ -9,6 +9,10 @@ html {
   box-sizing: inherit;
 }
 
+div {
+  background-color: #d05c2e;
+}
+
 img {
   width: 40px;
 }
